@@ -1,0 +1,8 @@
+{
+    "env": {
+        "PORT": 3000,
+        "MONGO_USER": "sonhung",
+        "MONGO_PASS": "abenoseimel",
+        "MONGO_DB": "events-react-dev"
+    }
+}
